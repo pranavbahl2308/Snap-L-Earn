@@ -6,3 +6,15 @@ Giving learning utmost importance, we will also provide the photographers with d
 
 We wish for the hobby photographer to fall in love with photography!
 
+# Technology and Tools
+
+The Snap-L-Earn is built using HTML 5, Javascript, CSS, AJAX for UI and UX, Java for middle tier and MySQL for database.
+
+Since we would be using HTML 5, the following browsers would be able to run the application:
+1.	Internet Explorer 10 and above
+2.	Mozilla Firefox 30 and above
+3.	Google Chrome 35 and above
+4.	Safari 8.0 and above
+
+We used Apache Tomcat to deploy and run our application. 
+
